@@ -1,4 +1,4 @@
-theme: jekyll-theme-galada
+theme: jekyll-theme-merlot
 paginate: 5
 plugins:
 - jekyll-paginate
